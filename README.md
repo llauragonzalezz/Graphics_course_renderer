@@ -1,8 +1,8 @@
 # Graphics_course_renderer
 Basic renderer implementing both Pathtracing and Photonmapping algorithms developed for the Informática Gráfica 2022/2023 course at Universidad de Zaragoza, developed alongside ![@Sondeluz](https://github.com/Sondeluz)
-![twin_peaks](https://github.com/llauragonzalezz/Graphics_course_renderer/cool_renders/twin_peaks.png)
+![twin_peaks](https://github.com/llauragonzalezz/Graphics_course_renderer/blob/main/cool_renders/twin_peaks.png?raw=true)
 
-![35_point_lights_final_render](https://github.com/llauragonzalezz/Graphics_course_renderer/cool_renders/pathtracer/35_point_lights_final_render.png)
+![35_point_lights_final_render](https://github.com/llauragonzalezz/Graphics_course_renderer/blob/main/cool_renders/pathtracer/35_point_lights_final_render.png?raw=true)
 
 ## Features
 - Highly multithreaded
